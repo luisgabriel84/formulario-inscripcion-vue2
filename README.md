@@ -19,8 +19,8 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # TODO
-- [ ] Create form with vuetify
-- [ ] Add validation
+- [ x ] Create form with vuetify
+- [ x ] Add validation
 - [ ] Save data to firebase
 - [ ] Create admin view data
 - [ ] Edit data
