@@ -21,7 +21,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # TODO
 - [ x ] Create form with vuetify
 - [ x ] Add validation
-- [ ] Save data to firebase
+- [ x ] Save data to firebase
 - [ ] Create admin view data
 - [ ] Edit data
 - [ ] Delete data
